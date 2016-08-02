@@ -33,6 +33,7 @@ Also, a great shoutout to the Linux porting companies, including:
 | CodeWeavers | [codeweavers.com](http://codeweavers.com) | [@CodeWeavers](https://twitter.com/CodeWeavers) | System Shock 2, Dear Esther (old port), LIMBO (old port) | yes |
 | Abstraction Games | [abstractiongames.com](http://abstractiongames.com) | [@AbstractionGame](https://twitter.com/AbstractionGame) | The Boy And His Blob, Danganronpa, The Chaos Engine, Gunpoint, Hotline Miami series, Awesomenauts (?) | yes |
 | Code Mystics | [codemystics.com](http://www.codemystics.com) | [@CodeMystics](https://twitter.com/CodeMystics) | Little Inferno, Rocketbirds: Hardboiled Chicken, The Bridge, Atari Vault | yes |
+| Sickhead Games | [sickhead.com](http://www.sickhead.com/) | [@Sickhead](https://twitter.com/Sickhead) | Stardew Valley | yes |
 | Alternative Games | [alternativegames.net](http://www.alternativegames.net/) | - | Trine, Shadowgrounds series, Shank 2, Don't Starve, Mark of the Ninja, Guacamelee!, Eets Munchies, Torchlight 2... | ? |
 | Runesoft | [rune-soft.com](http://rune-soft.com) | [@RunesoftGmbH](https://twitter.com/RunesoftGmbH) | Airline Tycoon Deluxe, Ankh series, Cultures: Northland | ? |
 | Hyperion Entertainment | [hyperion-entertainment.biz](http://www.hyperion-entertainment.biz/) | - | SiN Gold, Gorky 17, Shogo: Mobile Armor Division | ? |
