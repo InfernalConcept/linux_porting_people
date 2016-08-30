@@ -7,7 +7,7 @@ This list features mostly porting people, but also developers responsible for to
 | Ryan C. Gordon "icculus" | [icculus.org](http://icculus.org/) | [@icculus](https://twitter.com/icculus) | freelance, working for Loki Software (in the past), MojoSetup, SDL, many Humble Bundle ports, Dungeons of Dredmor, Goat Simulator, LIMBO (new port), Braid (old port), Killing Floor, Super Meat Boy, Sanctum 2, Hammerfight, Aquaria, Cogs, Psychonauts, Shank, Frozen Synapse, Lugaru... | yes |
 | Ethan Lee "flibitijibibo" | [flibitijibibo.com](http://www.flibitijibibo.com/) | [@flibitijibibo](https://twitter.com/flibitijibibo) | freelance, FNA, Rogue Legacy, Super Hexagon, FEZ, Transistor, Gnomoria, Towerfall: Ascension, Dust: An Elysian Tail, Capsized, Escape Goat, Apotheon, VVVVVV, Vessel, Hacknet, Speedrunners, Salt and Sanctuary, Bleed, Wyv and Keep, Wizorb, Proteus... | yes |
 | Edward Rudd "urkle" | [outoforder.cc](http://outoforder.cc/) | [@outoforder_cc](https://twitter.com/outoforder_cc) | Working for Humble Bundle, Torchlight series, Amnesia series, Penumbra series, Legend of Grimrock, Democracy 3, The Cave... | yes |
-| Aaron Melcher | [knockoutgames.co](http://knockoutgames.co) | [@aaron_melcher](https://twitter.com/aaron_melcher) | freelance, Shadow Warrior (2013), SOMA, Xenonauts, Sunless Sea, Darkest Dungeon, Hyper Light Drifter, Braid (new port), Outland... | yes |
+| Aaron Melcher | [knockoutgames.co](http://knockoutgames.co) | [@aaron_melcher](https://twitter.com/aaron_melcher) | freelance, Shadow Warrior (2013), SOMA, Xenonauts, Sunless Sea, Darkest Dungeon, Hyper Light Drifter, Braid (new port), Outland, Mighty No. 9... | yes |
 | Jonas Kulla "Ancurio" | [Ancurio's github](https://github.com/Ancurio/) | [@Ancurio](https://twitter.com/Ancurio) | freelance, mkxp, To The Moon, A Bird Story, The Last Word, Echoes Of Aetheria... | yes |
 | Amos Wenger "fasterthanlime" | [amos.me](https://amos.me/) | [@fasterthanlime](https://twitter.com/fasterthanlime) | Working for itch.io, itch app, butler, wharf (itch.io developer tools) | yes |
 | Gustav Palmqvist | [Gustav's twitter](https://twitter.com/Guraan294) | [@Guraan294](https://twitter.com/Guraan294) | Working for Paradox Development Studios, Europa Universalis 4, Crusader Kings 2, Hearts of Iron 4... | yes |
@@ -27,10 +27,10 @@ Also, a great shoutout to the Linux porting companies, including:
 
 | Name | Website | Twitter | Known for | Active? |
 | --- | --- | --- | --- | --- |
-| Feral Interactive | [feralinteractive.com](http://feralinteractive.com) | [@feralgames](https://twitter.com/feralgames) | Shadow of Mordor, XCOM series, Company of Heroes, Total War series, Tomb Raider ... | yes |
+| Feral Interactive | [feralinteractive.com](http://feralinteractive.com) | [@feralgames](https://twitter.com/feralgames) | Shadow of Mordor, XCOM series, Company of Heroes, Total War series, Tomb Raider, Life is Strange... | yes |
 | Aspyr Media | [aspyr.com](http://aspyr.com/) | [@AspyrMedia](https://twitter.com/AspyrMedia) | Civilization series, Borderlands 2, Knights of the Old Republic 2, Layers of Fear... | yes |
 | Virtual Programming | [vpltd.com](http://vpltd.com/) | [@virtualprog](https://twitter.com/virtualprog) | Bioshock: Infinite, Witcher 2, SpecOps: The Line, Dirt: Showdown, Saints Row series, Stronghold 3... | yes |
-| CodeWeavers | [codeweavers.com](http://codeweavers.com) | [@CodeWeavers](https://twitter.com/CodeWeavers) | System Shock 2, Dear Esther (old port), LIMBO (old port) | yes |
+| CodeWeavers | [codeweavers.com](http://codeweavers.com) | [@CodeWeavers](https://twitter.com/CodeWeavers) | System Shock 2, Vanguard Princess, Dear Esther (old port), LIMBO (old port) | yes |
 | Abstraction Games | [abstractiongames.com](http://abstractiongames.com) | [@AbstractionGame](https://twitter.com/AbstractionGame) | The Boy And His Blob, Danganronpa, The Chaos Engine, Gunpoint, Hotline Miami series, Awesomenauts (?) | yes |
 | Code Mystics | [codemystics.com](http://www.codemystics.com) | [@CodeMystics](https://twitter.com/CodeMystics) | Little Inferno, Rocketbirds: Hardboiled Chicken, The Bridge, Atari Vault | yes |
 | Sickhead Games | [sickhead.com](http://www.sickhead.com/) | [@Sickhead](https://twitter.com/Sickhead) | Stardew Valley | yes |
