@@ -19,7 +19,7 @@ This list features mostly porting people, but also developers responsible for to
 | Tim Ambrogi | [finalformgames.com](http://www.finalformgames.com/) | [@westquote](https://twitter.com/westquote) | Part of indie studio Final Form Games (Jamestown), Spirits | ? |
 | David Gow | [davidgow.net](https://davidgow.net/) | [@DyslexicDeity](https://twitter.com/DyslexicDeity) | Multiwinia | ? |
 | Sam Lantinga "Slouken" | [Slouken's github](https://github.com/slouken) | [@slouken](https://twitter.com/slouken) | Working for Valve, working for Loki Software (in the past), SDL, World of Warcraft internal Linux prototype, Source engine, Team Fortress 2 (other Valve games?), MAME4ALL and Kodi for Steam Link | ? |
-| Timothee Besset "TTimo" | [ttimo.typepad.com](http://ttimo.typepad.com/) | [@TTimo](https://twitter.com/TTimo) | Doom series, Quake series, Wolfenstein series | ? |
+| Timothee Besset "TTimo" | [ttimo.typepad.com](http://ttimo.typepad.com/) | [@TTimo](https://twitter.com/TTimo) | Rocket League, Doom series, Quake series, Wolfenstein series | yes |
 | Leszek Godlewski | [inequation.org](http://inequation.org/) | [@TheIneQuation](https://twitter.com/TheIneQuation) | Working for Flying Wild Hog, Deadfall Adventures, Painkiller Hell & Damnation | no |
 | Dave D. Taylor | [davetaylor.name](http://www.davetaylor.name/) | [@_ddt__](https://twitter.com/_ddt__) | Doom, Quake, Abuse | no |
 
