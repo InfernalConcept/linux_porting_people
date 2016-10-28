@@ -36,8 +36,8 @@ Also, if you are grateful that you are able to play your favorite game on Linux,
 | Name | Website | Twitter | Known for | Active? |
 | --- | --- | --- | --- | --- |
 | Feral Interactive | [feralinteractive.com](http://feralinteractive.com) | [@feralgames](https://twitter.com/feralgames) | Shadow of Mordor, XCOM series, Company of Heroes, Total War series, Tomb Raider, Life is Strange, Mad Max, Dawn of War 2, Deus Ex: Mankind Divided... | yes |
-| Aspyr Media | [aspyr.com](http://aspyr.com/) | [@AspyrMedia](https://twitter.com/AspyrMedia) | Civilization series, Borderlands 2, Knights of the Old Republic 2, Layers of Fear... | yes |
-| Virtual Programming | [vpltd.com](http://vpltd.com/) | [@virtualprog](https://twitter.com/virtualprog) | Bioshock: Infinite, Witcher 2, SpecOps: The Line, Dirt: Showdown, Saints Row series, Stronghold 3... | yes |
+| Aspyr Media | [aspyr.com](http://aspyr.com/) | [@AspyrMedia](https://twitter.com/AspyrMedia) | Civilization series, Borderlands 2, Knights of the Old Republic 2, Layers of Fear, Fahrenheit: Indigo Prophecy... | yes |
+| Virtual Programming | [vpltd.com](http://vpltd.com/) | [@virtualprog](https://twitter.com/virtualprog) | Bioshock: Infinite, Witcher 2, SpecOps: The Line, Dirt: Showdown, Saints Row series, Overlord series, Stronghold 3... | yes |
 | CodeWeavers | [codeweavers.com](http://codeweavers.com) | [@CodeWeavers](https://twitter.com/CodeWeavers) | System Shock 2, Vanguard Princess, Dear Esther (old port), LIMBO (old port) | yes |
 | Abstraction Games | [abstractiongames.com](http://abstractiongames.com) | [@AbstractionGame](https://twitter.com/AbstractionGame) | The Boy And His Blob, Danganronpa, The Chaos Engine, Gunpoint, Hotline Miami series, Awesomenauts (?) | yes |
 | Code Mystics | [codemystics.com](http://www.codemystics.com) | [@CodeMystics](https://twitter.com/CodeMystics) | Little Inferno, Rocketbirds: Hardboiled Chicken, The Bridge, Atari Vault | yes |
