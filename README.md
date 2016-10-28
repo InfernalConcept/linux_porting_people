@@ -1,6 +1,12 @@
-# The great list of Linux game tech people and companies
+# The great list of Linux game porting programmers and companies
 
-This list features mostly porting people, but also developers responsible for tools related to the Linux gaming. Some of them are freelancers, while some are hired full-time by their studios.
+This list features mostly programmers and companies that are porting games to Linux, but also developers responsible for tools related to the Linux gaming. Some of them are freelancers, while some are hired full-time by their studios.
+
+If you are looking for someone to port your game to Linux, here's some contact info you can use. If you know someone who's looking, let him know about the list!
+
+Also, if you are grateful that you are able to play your favorite game on Linux, go on and thank your heroes!
+
+## People
 
 | Name | Website | Twitter | Known for | Active? |
 | --- | --- | --- | --- | --- |
@@ -23,7 +29,7 @@ This list features mostly porting people, but also developers responsible for to
 | Leszek Godlewski | [inequation.org](http://inequation.org/) | [@TheIneQuation](https://twitter.com/TheIneQuation) | Working for Flying Wild Hog, Deadfall Adventures, Painkiller Hell & Damnation | no |
 | Dave D. Taylor | [davetaylor.name](http://www.davetaylor.name/) | [@_ddt__](https://twitter.com/_ddt__) | Doom, Quake, Abuse | no |
 
-Also, a great shoutout to the Linux porting companies, including:
+## Companies
 
 | Name | Website | Twitter | Known for | Active? |
 | --- | --- | --- | --- | --- |
@@ -40,6 +46,7 @@ Also, a great shoutout to the Linux porting companies, including:
 | Linux Game Publishing | [linuxgamepublishing.com](http://www.linuxgamepublishing.com/) | - | Majesty: Gold Edition, Sacred: Gold Edition, Ballistics... | no |
 | Loki Software | [lokigames.com](http://www.lokigames.com/) | - | Heroes of Might and Magic 3, Railroad Tycoon 2, Rune, Soldier of Fortune, Heretic 2, Myth 2, SimCity 3000, Sid Meier's Alpha Centauri... | no |
 
-And every single Linux-friendly developer and company out there! **We love you!**
+To the every single Linux-friendly developer and company out there: **we love you!**
 
-Feel free to add other people in the comments! If you want to be removed from that list for whatever reasons, let me know using [Reddit](https://www.reddit.com/user/hardpenguin/) or [Twitter](https://www.twitter.com/hardpenguin13/). Same if you feel like you should be ADDED to the list!
+Feel free to add other people by a merge request (you can create an issue, too!).
+If you want to be removed from that list for whatever reasons, let me know using an issue system, [Twitter](https://www.twitter.com/hardpenguin13/) or [Reddit](https://www.reddit.com/user/hardpenguin/). Same if you feel like you should be ADDED to the list!
