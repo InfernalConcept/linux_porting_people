@@ -1,4 +1,4 @@
-# The great list of Linux game porting programmers and companies
+# The great list of Linux game porting people and companies
 
 This list features mostly programmers and companies that are porting games to Linux, but also developers responsible for tools related to the Linux gaming. Some of them are freelancers, while some are hired full-time by their studios.
 
@@ -23,23 +23,26 @@ Also, if you are grateful that you are able to play your favorite game on Linux,
 | Renaud Lepage "cybik" | [Cybik's Google+](https://plus.google.com/+RenaudLepage) | [@cybik](https://twitter.com/cybik) | freelancer (specialty: Build Engineering and Integration), Skullgirls, Indivisible | yes |
 | Oliver Franzke | [p1xelcoder.com](http://www.p1xelcoder.com/) | [@p1xelcoder](https://twitter.com/p1xelcoder) | Working for Double Fine Productions, Broken Age | yes |
 | Timothee Besset "TTimo" | [ttimo.typepad.com](http://ttimo.typepad.com/) | [@TTimo](https://twitter.com/TTimo) | Rocket League, Doom series, Quake series, Wolfenstein series | yes |
+| Edwin Smith | [Ed's twitter](https://twitter.com/edddeduck) | [@edddeduck](https://twitter.com/edddeduck) | Working for Feral Interactive | yes |
+| Marc Di Luzio  | [Marc's twitter](https://twitter.com/mdiluz) | [@mdiluz](https://twitter.com/mdiluz) | Working for Feral Interactive | yes |
 | Tim Ambrogi | [finalformgames.com](http://www.finalformgames.com/) | [@westquote](https://twitter.com/westquote) | Part of indie studio Final Form Games (Jamestown), Spirits | ? |
 | David Gow | [davidgow.net](https://davidgow.net/) | [@DyslexicDeity](https://twitter.com/DyslexicDeity) | Multiwinia | ? |
 | Sam Lantinga "Slouken" | [Slouken's github](https://github.com/slouken) | [@slouken](https://twitter.com/slouken) | Working for Valve, working for Loki Software (in the past), SDL, World of Warcraft internal Linux prototype, Source engine, Team Fortress 2 (other Valve games?), MAME4ALL and Kodi for Steam Link | ? |
-| Leszek Godlewski | [inequation.org](http://inequation.org/) | [@TheIneQuation](https://twitter.com/TheIneQuation) | Working for Flying Wild Hog, Deadfall Adventures, Painkiller Hell & Damnation | no |
+| Leszek Godlewski | [inequation.org](http://inequation.org/) | [@TheIneQuation](https://twitter.com/TheIneQuation) | Working for Flying Wild Hog, Deadfall Adventures, Painkiller Hell & Damnation | not for hire |
 | Dave D. Taylor | [davetaylor.name](http://www.davetaylor.name/) | [@_ddt__](https://twitter.com/_ddt__) | Doom, Quake, Abuse | no |
 
 ## Companies
 
 | Name | Website | Twitter | Known for | Active? |
 | --- | --- | --- | --- | --- |
-| Feral Interactive | [feralinteractive.com](http://feralinteractive.com) | [@feralgames](https://twitter.com/feralgames) | Shadow of Mordor, XCOM series, Company of Heroes, Total War series, Tomb Raider, Life is Strange... | yes |
+| Feral Interactive | [feralinteractive.com](http://feralinteractive.com) | [@feralgames](https://twitter.com/feralgames) | Shadow of Mordor, XCOM series, Company of Heroes, Total War series, Tomb Raider, Life is Strange, Mad Max, Dawn of War 2, Deus Ex: Mankind Divided... | yes |
 | Aspyr Media | [aspyr.com](http://aspyr.com/) | [@AspyrMedia](https://twitter.com/AspyrMedia) | Civilization series, Borderlands 2, Knights of the Old Republic 2, Layers of Fear... | yes |
 | Virtual Programming | [vpltd.com](http://vpltd.com/) | [@virtualprog](https://twitter.com/virtualprog) | Bioshock: Infinite, Witcher 2, SpecOps: The Line, Dirt: Showdown, Saints Row series, Stronghold 3... | yes |
 | CodeWeavers | [codeweavers.com](http://codeweavers.com) | [@CodeWeavers](https://twitter.com/CodeWeavers) | System Shock 2, Vanguard Princess, Dear Esther (old port), LIMBO (old port) | yes |
 | Abstraction Games | [abstractiongames.com](http://abstractiongames.com) | [@AbstractionGame](https://twitter.com/AbstractionGame) | The Boy And His Blob, Danganronpa, The Chaos Engine, Gunpoint, Hotline Miami series, Awesomenauts (?) | yes |
 | Code Mystics | [codemystics.com](http://www.codemystics.com) | [@CodeMystics](https://twitter.com/CodeMystics) | Little Inferno, Rocketbirds: Hardboiled Chicken, The Bridge, Atari Vault | yes |
 | Sickhead Games | [sickhead.com](http://www.sickhead.com/) | [@Sickhead](https://twitter.com/Sickhead) | Stardew Valley | yes |
+| General Arcade | [generalarcade.com/](http://www.generalarcade.com/) | [@generalarcade](https://twitter.com/CodeMystics) | OlliOlli, Shadow Warrior Classic Redux, Duke Nukem 3D Megaton Edition, SDL2 Gamepad Tool... | yes |
 | Alternative Games | [alternativegames.net](http://www.alternativegames.net/) | - | Trine, Shadowgrounds series, Shank 2, Don't Starve, Mark of the Ninja, Guacamelee!, Eets Munchies, Torchlight 2... | ? |
 | Runesoft | [rune-soft.com](http://rune-soft.com) | [@RunesoftGmbH](https://twitter.com/RunesoftGmbH) | Airline Tycoon Deluxe, Ankh series, Cultures: Northland | ? |
 | Hyperion Entertainment | [hyperion-entertainment.biz](http://www.hyperion-entertainment.biz/) | - | SiN Gold, Gorky 17, Shogo: Mobile Armor Division | ? |
