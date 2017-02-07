@@ -42,7 +42,8 @@ Also, if you are grateful that you are able to play your favorite game on Linux,
 | Abstraction Games | [abstractiongames.com](http://abstractiongames.com) | [@AbstractionGame](https://twitter.com/AbstractionGame) | The Boy And His Blob, Danganronpa, The Chaos Engine, Gunpoint, Hotline Miami series, Awesomenauts (?) | yes |
 | Code Mystics | [codemystics.com](http://www.codemystics.com) | [@CodeMystics](https://twitter.com/CodeMystics) | Little Inferno, Rocketbirds: Hardboiled Chicken, The Bridge, Atari Vault | yes |
 | Sickhead Games | [sickhead.com](http://www.sickhead.com/) | [@Sickhead](https://twitter.com/Sickhead) | Stardew Valley | yes |
-| General Arcade | [generalarcade.com/](http://www.generalarcade.com/) | [@generalarcade](https://twitter.com/CodeMystics) | OlliOlli, Shadow Warrior Classic Redux, Duke Nukem 3D Megaton Edition, SDL2 Gamepad Tool... | yes |
+| General Arcade | [generalarcade.com/](http://www.generalarcade.com/) | [@generalarcade](https://twitter.com/generalarcade) | OlliOlli, Shadow Warrior Classic Redux, Duke Nukem 3D Megaton Edition, SDL2 Gamepad Tool... | yes |
+| MP2 Games | [mp2.dk](http://mp2.dk/) | [@matpow2](https://twitter.com/matpow2) | NOT A HERO, Freedom Planet, Knytt Underground, Iconoclasts, The Escapists, Heart Forth Alicia | yes |
 | Alternative Games | [alternativegames.net](http://www.alternativegames.net/) | - | Trine, Shadowgrounds series, Shank 2, Don't Starve, Mark of the Ninja, Guacamelee!, Eets Munchies, Torchlight 2... | ? |
 | Runesoft | [rune-soft.com](http://rune-soft.com) | [@RunesoftGmbH](https://twitter.com/RunesoftGmbH) | Airline Tycoon Deluxe, Ankh series, Cultures: Northland | ? |
 | Hyperion Entertainment | [hyperion-entertainment.biz](http://www.hyperion-entertainment.biz/) | - | SiN Gold, Gorky 17, Shogo: Mobile Armor Division | ? |
