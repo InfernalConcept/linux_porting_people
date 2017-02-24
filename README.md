@@ -16,7 +16,7 @@ Also, if you are grateful that you are able to play your favorite game on Linux,
 | Aaron Melcher | [knockoutgames.co](http://knockoutgames.co) | [@aaron_melcher](https://twitter.com/aaron_melcher) | freelance (as Knockout Games), Shadow Warrior (2013), SOMA, Xenonauts, Sunless Sea, Darkest Dungeon, Hyper Light Drifter, Braid (new port), Outland, Mighty No. 9... | yes |
 | Timothee Besset "TTimo" | [ttimo.typepad.com](http://ttimo.typepad.com/) | [@TTimo](https://twitter.com/TTimo) | Rocket League, Doom series, Quake series, Wolfenstein series | yes |
 | Jonas Kulla "Ancurio" | [Ancurio's github](https://github.com/Ancurio/) | [@Ancurio](https://twitter.com/Ancurio) | freelance, mkxp, To The Moon, A Bird Story, The Last Word, Echoes Of Aetheria... | yes |
-| Josh Bush "Cheeseness" | [cheesetalks.net](https://cheesetalks.net) | [@ValiantCheese](https://twitter.com/ValiantCheese) | freelancer, Day of Tentacle Remastered | yes |
+| Josh Bush "Cheeseness" | [cheesetalks.net](https://cheesetalks.net) | [@ValiantCheese](https://twitter.com/ValiantCheese) | freelancer, Day of Tentacle Remastered, Hand of Fate, The Fall, Neverball, Winter's Wake, Icicle engine | yes |
 | Renaud Lepage "cybik" | [Cybik's Google+](https://plus.google.com/+RenaudLepage) | [@cybik](https://twitter.com/cybik) | freelancer (specialty: Build Engineering and Integration), Skullgirls, Indivisible | yes |
 | Edwin Smith | [Ed's twitter](https://twitter.com/edddeduck) | [@edddeduck](https://twitter.com/edddeduck) | Working for Feral Interactive | yes |
 | Marc Di Luzio  | [Marc's twitter](https://twitter.com/mdiluz) | [@mdiluz](https://twitter.com/mdiluz) | Working for Feral Interactive | yes |
