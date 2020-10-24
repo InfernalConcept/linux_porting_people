@@ -51,6 +51,7 @@ Also, if you are grateful that you are able to play your favorite game on Linux,
 | Hyperion Entertainment | [hyperion-entertainment.biz](http://www.hyperion-entertainment.biz/) | - | SiN Gold, Gorky 17, Shogo: Mobile Armor Division | ? |
 | Linux Game Publishing | [linuxgamepublishing.com](http://www.linuxgamepublishing.com/) | - | Majesty: Gold Edition, Sacred: Gold Edition, Ballistics... | no |
 | Loki Software | [lokigames.com](http://www.lokigames.com/) | - | Heroes of Might and Magic 3, Railroad Tycoon 2, Rune, Soldier of Fortune, Heretic 2, Myth 2, SimCity 3000, Sid Meier's Alpha Centauri... | no |
+| Croteam | [croteam.com](https://www.croteam.com/) | [@Croteam](https://twitter.com/Croteam) | The Talos Principle, Serious Sam 3: BFE | yes |
 
 To the every single Linux-friendly developer and company out there: **we love you!**
 
